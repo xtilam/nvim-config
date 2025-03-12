@@ -1,0 +1,4 @@
+/lua/nvim-cache
+/lua/nvim-config/lua/test
+/node/node_modules
+/node/config.ts
